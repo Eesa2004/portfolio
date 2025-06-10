@@ -2,7 +2,7 @@
 
 Welcome to my project index! Here you’ll find a categorized list of my work in **data engineering**, SQL, and Python development.
 
-**Check out my [profile description] !!** 
+**Check out my [profile](https://github.com/Eesa2004) for an overview of myself** 
 
 ---
 
