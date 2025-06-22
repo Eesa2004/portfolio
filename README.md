@@ -1,6 +1,6 @@
 # Eesa's Project Portfolio
 
-Welcome to my project index! Here you’ll find a categorized list of my work in **data engineering**, SQL, and Python development.
+Welcome to my project index! Here you’ll find a categorised list of my work in **data engineering**, SQL, and Python development.
 
 **Check out my [profile](https://github.com/Eesa2004) for an overview of myself** 
 
@@ -23,16 +23,16 @@ Welcome to my project index! Here you’ll find a categorized list of my work in
 ## 📚 Learning & Experiments
 
 - [SQL Mini Challenges](https://github.com/Eesa2004/sql-challenges)  
-  *Practice queries from SQL bolt and LeetCode.*
+  *Practice queries from SQLbolt and LeetCode.*
 
 - [Python From Scratch](https://github.com/Eesa2004/python-from-scratch)  
-  *Python challenges from bootcamp and leetcode.*
+  *Python challenges from bootcamp and LeetCode.*
 
 - [Card Game](https://github.com/Eesa2004/card-game)
-  *complex single player card game using OOP*
+  *complex single-player card game using OOP*
   
 - [Mathematical Space Invaders](https://github.com/Eesa2004/Mathematical-Space_Invaders)
-  *A-Level project - creating an educational mathematical space invaders game with login database to store credentials and highscore*
+  *A-Level project - creating an educational mathematical space invaders game with a login database to store credentials and high score*
 
 ---
 
