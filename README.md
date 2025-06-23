@@ -7,7 +7,8 @@ Welcome to my project index! Here you’ll find a categorised list of my work in
 ---
 
 ## 📊 Data Engineering Projects
-
+- [ETL Data Pipeline with Python & Snowflake](https://github.com/Eesa2004/ETL-Data-Pipeline-with-Python-Snowflake)
+  *A hands-on data engineering challenge focused on data extraction, cleansing, and cloud integration.*
 ---
 
 ## 🛠️ Python Utilities & Scripts
