@@ -32,10 +32,10 @@ Welcome to my project index! Here you’ll find a categorised list of my work in
 - [Python Pandas Practice](https://github.com/Eesa2004/python-pandas-practice)  
   *Completed Python-Pandas beginner challenges from LeetCode.*
 
-- [Card Game](https://github.com/Eesa2004/card-game)
+- [Card Game](https://github.com/Eesa2004/card-game)  
   *Created a complex single-player card game using OOP*
   
-- [Mathematical Space Invaders](https://github.com/Eesa2004/Mathematical-Space_Invaders)
+- [Mathematical Space Invaders](https://github.com/Eesa2004/Mathematical-Space_Invaders)  
   *A-Level project - Created an educational mathematical space invaders game with a login database to store credentials and high scores*
 
 ---
