@@ -6,7 +6,7 @@ Welcome to my project index! Here you’ll find a categorised list of my work in
 
 ---
 
-## 📊 Data Engineering Projects
+## 📊 Data Engineering/Analyst Projects
 - [ETL Data Pipeline with Python & Snowflake](https://github.com/Eesa2004/ETL-Data-Pipeline-with-Python-Snowflake)
   *A hands-on data engineering challenge focused on data extraction, cleansing, and cloud integration.*
 ---
@@ -24,16 +24,19 @@ Welcome to my project index! Here you’ll find a categorised list of my work in
 ## 📚 Learning & Experiments
 
 - [SQL Mini Challenges](https://github.com/Eesa2004/sql-challenges)  
-  *Practice queries from SQLbolt and LeetCode.*
+  *Completed practice queries from SQLbolt and LeetCode.*
 
 - [Python From Scratch](https://github.com/Eesa2004/python-from-scratch)  
-  *Python challenges from bootcamp and LeetCode.*
+  *Completed Python challenges from bootcamp and LeetCode.*
+
+- [Python Pandas Practice](https://github.com/Eesa2004/python-pandas-practice)  
+  *Completed Python-Pandas beginner challenges from LeetCode.*
 
 - [Card Game](https://github.com/Eesa2004/card-game)
-  *complex single-player card game using OOP*
+  *Created a complex single-player card game using OOP*
   
 - [Mathematical Space Invaders](https://github.com/Eesa2004/Mathematical-Space_Invaders)
-  *A-Level project - creating an educational mathematical space invaders game with a login database to store credentials and high score*
+  *A-Level project - Created an educational mathematical space invaders game with a login database to store credentials and high scores*
 
 ---
 
