@@ -7,8 +7,11 @@ Welcome to my project index! Here you’ll find a categorised list of my work in
 ---
 
 ## 📊 Data Engineering/Analyst Projects
-- [ETL Data Pipeline with Python & Snowflake](https://github.com/Eesa2004/ETL-Data-Pipeline-with-Python-Snowflake)
+- [ETL Data Pipeline with Python & Snowflake](https://github.com/Eesa2004/ETL-Data-Pipeline-with-Python-Snowflake)  
   *A hands-on data engineering challenge focused on data extraction, cleansing, and cloud integration.*
+  
+- [Global_Video_Game_Sales_Insights_with_Tableau](https://github.com/Eesa2004/Global_Video_Game_Sales_Insights_with_Tableau)  
+  *Interactive Tableau dashboard revealing trends, platforms, and genres in global video game sales.*
 ---
 
 ## 🛠️ Python Utilities & Scripts
@@ -16,7 +19,7 @@ Welcome to my project index! Here you’ll find a categorised list of my work in
 ---
 
 ## 🧠 Artificial Intelligence 
-- [Flappy Bird Ai](https://github.com/Eesa2004/Flappy-Bird-Ai)
+- [Flappy Bird Ai](https://github.com/Eesa2004/Flappy-Bird-Ai)  
   *Built a simple AI agent that learns to play Flappy Bird using reinforcement learning.*
 
 ---
@@ -37,6 +40,9 @@ Welcome to my project index! Here you’ll find a categorised list of my work in
   
 - [Mathematical Space Invaders](https://github.com/Eesa2004/Mathematical-Space_Invaders)  
   *A-Level project - Created an educational mathematical space invaders game with a login database to store credentials and high scores*
+
+- [Sales Performance Dashboard – Tableau Portfolio Project](https://github.com/Eesa2004/Tableau-Trial)  
+  *Tableau Beginner Creator Turtorial*
 
 ---
 
